@@ -30,7 +30,8 @@ Thumbs.db
 *.tsbuildinfo
 .claude/
 
-# Large 3D Models (Upload via GitHub Releases to avoid 100MB limit)
-*.glb
+# Large 3D Models > 100MB (Exceeds GitHub hard limit)
+public/uploads/images/1778568384985-ee88xy.glb
+
 
 

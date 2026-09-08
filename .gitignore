@@ -1,0 +1,36 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing & Cache
+/coverage
+/.next/
+/out/
+/build
+/dist
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment variables
+.env*.local
+.env
+
+# Backups & Archives
+/data/backups/
+
+# System Files
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+.claude/
+
+# Large 3D Models (Upload via GitHub Releases to avoid 100MB limit)
+*.glb
+
+

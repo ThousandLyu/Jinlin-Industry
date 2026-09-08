@@ -1,0 +1,584 @@
+[
+  {
+    "id": "fact-001",
+    "claimText": "金陵机器制造局是中国近代四大兵工厂之一，也是远东第一大兵工厂。",
+    "publicExpression": "金陵机器制造局是中国近代最重要的兵工企业之一，其规模在19世纪末属于全国领先水平。",
+    "verificationGrade": "A",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "high",
+    "riskWords": [
+      "第一",
+      "远东第一"
+    ],
+    "sourceIds": [
+      "src-001",
+      "src-002"
+    ],
+    "relatedSiteId": "site-001",
+    "relatedPersonIds": [
+      "person-003"
+    ]
+  },
+  {
+    "id": "fact-002",
+    "claimText": "永利铔厂是中国第一座化肥厂，1937年生产出中国第一包化学肥料。",
+    "publicExpression": "永利铔厂是中国最早的化肥生产企业之一，1937年率先成功生产出化学肥料，填补了国内空白。",
+    "verificationGrade": "A",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "high",
+    "riskWords": [
+      "第一",
+      "中国第一"
+    ],
+    "sourceIds": [
+      "src-008",
+      "src-009",
+      "src-017"
+    ],
+    "relatedSiteId": "site-002",
+    "relatedPersonIds": [
+      "person-001",
+      "person-002"
+    ]
+  },
+  {
+    "id": "fact-003",
+    "claimText": "南京长江大桥是第一座完全由中国自行设计建造的公铁两用桥，是中国桥梁建设史上的里程碑。",
+    "publicExpression": "南京长江大桥是新中国自主建设的重要公铁两用桥梁，在中国桥梁建设史上具有重要地位。",
+    "verificationGrade": "A",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "medium",
+    "riskWords": [
+      "第一"
+    ],
+    "sourceIds": [
+      "src-011"
+    ],
+    "relatedSiteId": "site-008",
+    "relatedPersonIds": [],
+    "updatedAt": "2026-05-02T12:44:40.228Z",
+    "isDeleted": false
+  },
+  {
+    "id": "fact-004",
+    "claimText": "八路军曾在江南水泥厂设立难民营，保护了近2万难民，这是南京唯一的工厂难民营。",
+    "publicExpression": "抗战期间江南水泥厂曾作为难民庇护所，保护了大量南京市民。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "medium",
+    "riskWords": [
+      "唯一"
+    ],
+    "sourceIds": [
+      "src-005"
+    ],
+    "relatedSiteId": "site-003",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-005",
+    "claimText": "南京无线电厂研制出中国第一台国产收音机，开创了中国电子工业先河。",
+    "publicExpression": "南京无线电厂在国产收音机研制方面取得了重要突破，为中国电子工业发展做出了贡献。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "high",
+    "riskWords": [
+      "第一",
+      "中国第一"
+    ],
+    "sourceIds": [
+      "src-010"
+    ],
+    "relatedSiteId": "site-004",
+    "relatedPersonIds": [
+      "person-005"
+    ]
+  },
+  {
+    "id": "fact-006",
+    "claimText": "浦镇车辆厂是中国最早创办的铁路车辆制造企业之一，始建于1908年。",
+    "publicExpression": "浦镇车辆厂始建于1908年，是中国铁路车辆制造行业历史最悠久的企业之一。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "medium",
+    "riskWords": [
+      "最早"
+    ],
+    "sourceIds": [
+      "src-013"
+    ],
+    "relatedSiteId": "site-005",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-007",
+    "claimText": "范旭东是中国化学工业之父，在南京创办了远东第一的永利铔厂。",
+    "publicExpression": "范旭东先生是中国近代化学工业的重要奠基人，其在南京创办的永利铔厂影响深远。",
+    "verificationGrade": "A",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "high",
+    "riskWords": [
+      "第一",
+      "远东第一"
+    ],
+    "sourceIds": [
+      "src-009"
+    ],
+    "relatedSiteId": "site-002",
+    "relatedPersonIds": [
+      "person-001"
+    ]
+  },
+  {
+    "id": "fact-008",
+    "claimText": "侯德榜发明的侯氏制碱法打破西方垄断，是中国化学工业的奠基性成就。",
+    "publicExpression": "侯德榜先生发明的侯氏制碱法具有重要创新价值，对中国化学工业发展贡献巨大。",
+    "verificationGrade": "A",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "medium",
+    "riskWords": [
+      "奠基"
+    ],
+    "sourceIds": [
+      "src-017"
+    ],
+    "relatedSiteId": "site-002",
+    "relatedPersonIds": [
+      "person-002"
+    ]
+  },
+  {
+    "id": "fact-009",
+    "claimText": "南京钢铁厂是江苏省最大的钢铁联合企业，年产量曾居全国前列。",
+    "publicExpression": "南京钢铁厂是江苏省重要的钢铁生产基地，在区域经济发展中发挥了重要作用。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "medium",
+    "riskWords": [
+      "最大"
+    ],
+    "sourceIds": [
+      "src-012"
+    ],
+    "relatedSiteId": "site-006",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-010",
+    "claimText": "扬子石化是改革开放后最大的单笔工业投资项目之一，总投资超过200亿元。",
+    "publicExpression": "扬子石化项目是改革开放后国家重点工业投资项目之一，对南京工业格局产生了重要影响。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "medium",
+    "riskWords": [
+      "最大"
+    ],
+    "sourceIds": [
+      "src-022"
+    ],
+    "relatedSiteId": "site-007",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-011",
+    "claimText": "南京云锦是中国丝织工艺最高成就代表，元代始设官办织造机构。",
+    "publicExpression": "南京云锦是中国丝织工艺的重要代表，历史悠久、技艺精湛，已被列入世界非物质文化遗产。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "low",
+    "riskWords": [],
+    "sourceIds": [
+      "src-014"
+    ],
+    "relatedSiteId": "site-009",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-012",
+    "claimText": "1865年李鸿章创办的金陵机器制造局是南京近代工业的开端，标志着南京进入工业化。",
+    "publicExpression": "1865年创办的金陵机器制造局是南京近代工业发展的重要起点。",
+    "verificationGrade": "A",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "low",
+    "riskWords": [],
+    "sourceIds": [
+      "src-001",
+      "src-002"
+    ],
+    "relatedSiteId": "site-001",
+    "relatedPersonIds": [
+      "person-003"
+    ]
+  },
+  {
+    "id": "fact-013",
+    "claimText": "江南水泥厂是全国最早的生产水泥的大型企业之一，为中国建筑材料工业发展奠基。",
+    "publicExpression": "江南水泥厂是中国近代水泥工业的重要企业，在建筑建材领域贡献突出。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "high",
+    "riskWords": [
+      "最早",
+      "奠基"
+    ],
+    "sourceIds": [
+      "src-005"
+    ],
+    "relatedSiteId": "site-003",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-014",
+    "claimText": "金陵造船厂曾建造中国首艘万吨远洋货轮\"南京号\"。",
+    "publicExpression": "金陵造船厂曾建造万吨级远洋货轮，为中国造船工业做出贡献。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "low",
+    "riskWords": [],
+    "sourceIds": [
+      "src-021"
+    ],
+    "relatedSiteId": "site-011",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-015",
+    "claimText": "南京小铁路是南京第一条城市轨道交通线路，于1907年通车。",
+    "publicExpression": "南京小铁路于1907年开通，是南京早期城市交通的重要组成部分。",
+    "verificationGrade": "C",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "medium",
+    "riskWords": [
+      "第一"
+    ],
+    "sourceIds": [
+      "src-019"
+    ],
+    "relatedSiteId": "site-012",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-016",
+    "claimText": "南京是中国唯一拥有完整工业门类体系的省会城市。",
+    "publicExpression": "",
+    "verificationGrade": "C",
+    "reviewStatus": "pending",
+    "isPublished": false,
+    "riskLevel": "medium",
+    "riskWords": [
+      "唯一"
+    ],
+    "sourceIds": [
+      "src-016"
+    ],
+    "relatedSiteId": "",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-017",
+    "claimText": "金陵机器制造局的武器产量在中国近代四大兵工厂中排名第一。",
+    "publicExpression": "",
+    "verificationGrade": "C",
+    "reviewStatus": "pending",
+    "isPublished": false,
+    "riskLevel": "medium",
+    "riskWords": [
+      "第一"
+    ],
+    "sourceIds": [
+      "src-004"
+    ],
+    "relatedSiteId": "site-001",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-018",
+    "claimText": "江南水泥厂创造过全国水泥产量第一的纪录。",
+    "publicExpression": "",
+    "verificationGrade": "C",
+    "reviewStatus": "pending",
+    "isPublished": false,
+    "riskLevel": "medium",
+    "riskWords": [
+      "第一"
+    ],
+    "sourceIds": [
+      "src-005"
+    ],
+    "relatedSiteId": "site-003",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-019",
+    "claimText": "1947年南京市工业产值位居全国前五，机械制造业产值占全省60%以上。",
+    "publicExpression": "1947年的调查显示南京工业在当时的中国经济中占有重要地位。",
+    "verificationGrade": "A",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "low",
+    "riskWords": [],
+    "sourceIds": [
+      "src-015"
+    ],
+    "relatedSiteId": "",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-020",
+    "claimText": "中国第一枚国产运载火箭的发动机由晨光机器厂（原金陵机器局）生产。",
+    "publicExpression": "晨光机器厂（原金陵机器局）在航天动力领域发挥过重要作用。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "high",
+    "riskWords": [
+      "第一",
+      "中国第一"
+    ],
+    "sourceIds": [
+      "src-004"
+    ],
+    "relatedSiteId": "site-001",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-021",
+    "claimText": "南京云锦织造技艺是世界唯一保留完整手工提花工艺的丝织技艺。",
+    "publicExpression": "南京云锦织造技艺保留了大量传统手工技艺，具有极高的文化价值。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "medium",
+    "riskWords": [
+      "唯一"
+    ],
+    "sourceIds": [
+      "src-014"
+    ],
+    "relatedSiteId": "site-009",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-022",
+    "claimText": "永利铔厂奠基了中国近代化学工业的基础。",
+    "publicExpression": "永利铔厂对中国近代化学工业发展起到了重要推动作用。",
+    "verificationGrade": "A",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "medium",
+    "riskWords": [
+      "奠基"
+    ],
+    "sourceIds": [
+      "src-008",
+      "src-009"
+    ],
+    "relatedSiteId": "site-002",
+    "relatedPersonIds": [
+      "person-001",
+      "person-002"
+    ]
+  },
+  {
+    "id": "fact-023",
+    "claimText": "南京电子工业基地是我国最早的国家级电子工业基地之一，代号714厂等企业全国知名。",
+    "publicExpression": "南京是国家电子工业的重要基地，\"熊猫\"等品牌享誉全国。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "medium",
+    "riskWords": [
+      "最早"
+    ],
+    "sourceIds": [
+      "src-020",
+      "src-010"
+    ],
+    "relatedSiteId": "site-004",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-024",
+    "claimText": "南京红色工人运动以金陵机器局为中心，王寅生烈士在地下党领导下组织罢工。",
+    "publicExpression": "金陵机器局是南京工人运动的重要场所，涌现出王寅生等工人领袖。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "low",
+    "riskWords": [],
+    "sourceIds": [
+      "src-002"
+    ],
+    "relatedSiteId": "site-001",
+    "relatedPersonIds": [
+      "person-004"
+    ]
+  },
+  {
+    "id": "fact-025",
+    "claimText": "南京纺织工业在中国近代\"实业救国\"浪潮中具有标志性地位。",
+    "publicExpression": "南京纺织工业在近代中国工业化进程中发挥了重要作用。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "medium",
+    "riskWords": [
+      "标志性"
+    ],
+    "sourceIds": [
+      "src-018"
+    ],
+    "relatedSiteId": "",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-026",
+    "claimText": "南京长江大桥是中国第一座由中国人自主设计建造的跨长江大桥，被誉为\"争气桥\"。",
+    "publicExpression": "南京长江大桥是中国人自主建设的重要桥梁工程，充分展现了新中国建设成就。",
+    "verificationGrade": "A",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "high",
+    "riskWords": [
+      "第一",
+      "中国第一"
+    ],
+    "sourceIds": [
+      "src-011"
+    ],
+    "relatedSiteId": "site-008",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-027",
+    "claimText": "南化公司（原永利铔厂）生产出新中国第一批硫酸、硝酸等基础化工原料。",
+    "publicExpression": "南化公司在新中国基础化工原料生产中发挥了先驱作用。",
+    "verificationGrade": "A",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "high",
+    "riskWords": [
+      "第一",
+      "中国第一"
+    ],
+    "sourceIds": [
+      "src-008"
+    ],
+    "relatedSiteId": "site-002",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-028",
+    "claimText": "江南水泥厂开设了全国第一家水泥技术培训学校。",
+    "publicExpression": "",
+    "verificationGrade": "C",
+    "reviewStatus": "pending",
+    "isPublished": false,
+    "riskLevel": "high",
+    "riskWords": [
+      "第一",
+      "全国第一"
+    ],
+    "sourceIds": [
+      "src-005"
+    ],
+    "relatedSiteId": "site-003",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-029",
+    "claimText": "浦镇车辆厂生产了新中国第一列22型客车。",
+    "publicExpression": "浦镇车辆厂在国产铁路客车制造方面取得过重要成就。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "high",
+    "riskWords": [
+      "第一",
+      "中国第一"
+    ],
+    "sourceIds": [
+      "src-013"
+    ],
+    "relatedSiteId": "site-005",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-030",
+    "claimText": "金陵造船厂曾建造中国第一艘万吨级远洋科学考察船。",
+    "publicExpression": "",
+    "verificationGrade": "C",
+    "reviewStatus": "pending",
+    "isPublished": false,
+    "riskLevel": "high",
+    "riskWords": [
+      "第一",
+      "中国第一"
+    ],
+    "sourceIds": [
+      "src-021"
+    ],
+    "relatedSiteId": "site-011",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-031",
+    "claimText": "南京熊猫电子是新中国第一家电子行业上市公司。",
+    "publicExpression": "熊猫电子是中国电子行业发展历程中的重要标志性企业。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "high",
+    "riskWords": [
+      "第一",
+      "中国第一"
+    ],
+    "sourceIds": [
+      "src-010",
+      "src-020"
+    ],
+    "relatedSiteId": "site-004",
+    "relatedPersonIds": []
+  },
+  {
+    "id": "fact-032",
+    "claimText": "南京是唯一完整保留清代、民国、新中国三个时期工业遗存的省会城市。",
+    "publicExpression": "南京保留了从清代到新中国多个时期的工业遗存，工业遗产体系较为完整。",
+    "verificationGrade": "B",
+    "reviewStatus": "approved",
+    "isPublished": true,
+    "riskLevel": "medium",
+    "riskWords": [
+      "唯一"
+    ],
+    "sourceIds": [
+      "src-003",
+      "src-001"
+    ],
+    "relatedSiteId": "",
+    "relatedPersonIds": []
+  },
+  {
+    "riskWords": [],
+    "riskLevel": "high",
+    "id": "966b039e-bd34-436c-9914-fbcd0366cac4",
+    "createdAt": "2026-05-01T16:42:08.855Z",
+    "updatedAt": "2026-05-01T20:48:19.958Z",
+    "isDeleted": false
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "act-001",
+    "title": "金陵机器局旧址研学活动",
+    "date": "2025-10-15",
+    "location": "晨光1865创意产业园",
+    "description": "组织中小学生参观金陵机器局旧址，了解南京近代工业发展历程。",
+    "servedCount": 85,
+    "feedback": "学生反响热烈，对工厂历史产生了浓厚兴趣。",
+    "photos": "/uploads/images/activity-001-1.jpg,/uploads/images/activity-001-2.jpg",
+    "isPublished": true,
+    "isDeleted": true,
+    "updatedAt": "2026-05-03T16:40:04.112Z"
+  },
+  {
+    "id": "act-002",
+    "title": "永利铔厂旧址工业遗产调研",
+    "date": "2025-11-02",
+    "location": "六合区南化公司",
+    "description": "高校团队赴永利铔厂旧址调研，采集口述史资料。",
+    "servedCount": 15,
+    "feedback": "获得珍贵史料，厂区老工人提供了许多生动回忆。",
+    "photos": "/uploads/images/1778136917506-oimdll.jpeg",
+    "isPublished": true,
+    "updatedAt": "2026-05-07T06:56:12.485Z"
+  },
+  {
+    "id": "act-003",
+    "title": "\"金陵工脉\"社区公益展览",
+    "date": "2025-12-10",
+    "location": "鼓楼区社区文化中心",
+    "description": "在社区举办的工业遗产图片展，向居民宣传南京工业文化。",
+    "servedCount": 200,
+    "feedback": "社区居民尤其是老一辈工人产生了强烈共鸣。",
+    "photos": "/uploads/images/activity-003-1.jpg,/uploads/images/activity-003-2.jpg",
+    "isPublished": true,
+    "isDeleted": true,
+    "updatedAt": "2026-05-03T16:39:57.607Z"
+  }
+]

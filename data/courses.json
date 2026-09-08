@@ -1,0 +1,65 @@
+[
+  {
+    "id": "course-001",
+    "title": "走进金陵机器局——南京工业的起点",
+    "description": "适合中小学社会实践的研学课程，通过金陵机器局的故事了解南京近代工业发展。",
+    "type": "课程",
+    "targetAudience": "中小学生",
+    "pptFile": "/uploads/courses/jinling-arsenal-course.pptx",
+    "scriptFile": "/uploads/courses/jinling-arsenal-script.docx",
+    "taskFile": "/uploads/courses/jinling-arsenal-task.docx",
+    "relatedFactIds": [
+      "fact-001",
+      "fact-012"
+    ],
+    "isPublished": true,
+    "isDeleted": true,
+    "updatedAt": "2026-05-07T05:43:45.450Z"
+  },
+  {
+    "id": "course-002",
+    "title": "范旭东与化学工业的故事",
+    "description": "讲述范旭东、侯德榜等化工先驱的创业故事，传播科学精神和爱国情怀。",
+    "type": "课程",
+    "targetAudience": "初高中学生",
+    "pptFile": "/uploads/courses/fanxudong-course.pptx",
+    "scriptFile": "/uploads/courses/fanxudong-script.docx",
+    "taskFile": "/uploads/courses/fanxudong-task.docx",
+    "relatedFactIds": [
+      "fact-002",
+      "fact-007",
+      "fact-008"
+    ],
+    "isPublished": true
+  },
+  {
+    "id": "course-003",
+    "title": "南京长江大桥——从图纸到通车",
+    "description": "南京长江大桥建设的相关故事，涵盖工程设计、材料科学和历史背景。",
+    "type": "课程",
+    "targetAudience": "初高中学生",
+    "pptFile": "/uploads/courses/bridge-course.pptx",
+    "scriptFile": "/uploads/courses/bridge-script.docx",
+    "taskFile": "/uploads/courses/bridge-task.docx",
+    "relatedFactIds": [
+      "fact-003",
+      "fact-026"
+    ],
+    "isPublished": true,
+    "updatedAt": "2026-05-12T09:04:04.787Z"
+  },
+  {
+    "id": "course-004",
+    "title": "工业遗产保护主题演讲",
+    "description": "面向公众的公益讲座讲稿，介绍南京工业遗产的价值和保护意义。",
+    "type": "讲稿",
+    "targetAudience": "公众",
+    "pptFile": "/uploads/courses/heritage-speech.pptx",
+    "scriptFile": "/uploads/courses/heritage-script.docx",
+    "taskFile": "",
+    "relatedFactIds": [
+      "fact-032"
+    ],
+    "isPublished": true
+  }
+]

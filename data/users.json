@@ -1,0 +1,47 @@
+[
+  {
+    "username": "lzcysy100",
+    "passwordHash": "4bdb6486796e0209280b0e2bd997b89a059d71d399b2e120a564cfd85c9cf798",
+    "passwordSalt": "595087dc63049a538251bd9bdc953acc",
+    "role": "admin",
+    "name": "Bruce",
+    "gender": "male",
+    "phone": "18251551268",
+    "email": "2550915645@qq.com",
+    "status": "active",
+    "id": "b45e301a-b91e-4065-876b-006b7b982f45",
+    "createdAt": "2026-05-01T09:31:17.590Z",
+    "updatedAt": "2026-05-02T04:40:00.000Z",
+    "isDeleted": false
+  },
+  {
+    "username": "admintest_1777628079",
+    "passwordHash": "c74ed419455dee6e1811877661e0936b68b697e115af714d131d50fe6741736e",
+    "passwordSalt": "63da70955f0b1d5a300dd314a7e09812",
+    "role": "admin",
+    "name": "Admin Test",
+    "gender": "other",
+    "phone": "1371777628079",
+    "email": "admintest_1777628079@example.com",
+    "status": "active",
+    "id": "87cc6816-1fac-455a-b76b-dc5d37ef2262",
+    "createdAt": "2026-05-01T09:34:40.936Z",
+    "updatedAt": "2026-05-01T09:34:41.347Z",
+    "isDeleted": true
+  },
+  {
+    "username": "testuser_check",
+    "passwordHash": "6f4fe957f4ff8addfba4e6ba20ad5eff607160f86bbda40e8cdc0af504dbdfc8",
+    "passwordSalt": "28d344e7acfd99ee737fc3b49c8ee168",
+    "role": "user",
+    "name": "Test",
+    "gender": "male",
+    "phone": "13800138000",
+    "email": "test_check@example.com",
+    "status": "active",
+    "id": "3d9509ff-88e3-499b-8ff8-c78e00dfe056",
+    "createdAt": "2026-05-01T16:04:10.643Z",
+    "updatedAt": "2026-05-01T16:16:50.375Z",
+    "isDeleted": true
+  }
+]

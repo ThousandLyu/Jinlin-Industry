@@ -1,0 +1,132 @@
+[
+  {
+    "id": "map-001",
+    "siteName": "金陵制造局",
+    "siteId": "site-001",
+    "xPercent": 42.78,
+    "yPercent": 67.08,
+    "description": "秦淮区正学路1号",
+    "address": "秦淮区正学路1号",
+    "longitude": null,
+    "latitude": null,
+    "updatedAt": "2026-05-07T05:18:58.228Z"
+  },
+  {
+    "id": "map-002",
+    "siteName": "永利铔厂",
+    "siteId": "site-002",
+    "xPercent": 48,
+    "yPercent": 22,
+    "description": "六合区卸甲甸",
+    "address": "六合区卸甲甸",
+    "longitude": null,
+    "latitude": null,
+    "updatedAt": "2026-05-07T05:19:59.569Z"
+  },
+  {
+    "id": "map-003",
+    "siteName": "江南水泥厂",
+    "siteId": "site-003",
+    "xPercent": 66.13,
+    "yPercent": 41.65,
+    "description": "栖霞区栖霞大道",
+    "address": "栖霞区栖霞大道",
+    "longitude": null,
+    "latitude": null,
+    "updatedAt": "2026-05-07T05:20:21.633Z"
+  },
+  {
+    "id": "map-004",
+    "siteName": "南京无线电厂",
+    "siteId": "site-004",
+    "xPercent": 51.37,
+    "yPercent": 90.18,
+    "description": "玄武区中山北路",
+    "address": "玄武区中山北路",
+    "longitude": null,
+    "latitude": null,
+    "updatedAt": "2026-05-07T05:20:55.242Z"
+  },
+  {
+    "id": "map-005",
+    "siteName": "浦镇车辆厂",
+    "siteId": "site-005",
+    "xPercent": 34.67,
+    "yPercent": 53.85,
+    "description": "浦口区龙虎巷",
+    "address": "浦口区龙虎巷",
+    "longitude": null,
+    "latitude": null,
+    "updatedAt": "2026-05-07T05:21:18.010Z"
+  },
+  {
+    "id": "map-006",
+    "siteName": "南京钢铁厂",
+    "siteId": "site-006",
+    "xPercent": 45,
+    "yPercent": 20,
+    "description": "六合区大厂街道",
+    "address": "六合区大厂街道",
+    "isDeleted": true,
+    "updatedAt": "2026-05-07T05:22:03.641Z"
+  },
+  {
+    "id": "map-007",
+    "siteName": "扬子石化",
+    "siteId": "site-007",
+    "xPercent": 46.02,
+    "yPercent": 20.16,
+    "description": "六合区大厂街道",
+    "address": "六合区大厂街道",
+    "longitude": null,
+    "latitude": null,
+    "updatedAt": "2026-05-07T05:22:40.911Z"
+  },
+  {
+    "id": "map-008",
+    "siteName": "南京长江大桥",
+    "siteId": "site-008",
+    "xPercent": 42.86,
+    "yPercent": 54.98,
+    "description": "鼓楼区/浦口区",
+    "address": "鼓楼区/浦口区",
+    "longitude": 0,
+    "latitude": 0,
+    "updatedAt": "2026-05-12T07:59:40.551Z"
+  },
+  {
+    "id": "map-009",
+    "siteName": "云锦博物馆",
+    "siteId": "site-009",
+    "xPercent": 41.64,
+    "yPercent": 70.16,
+    "description": "建邺区茶亭东街",
+    "address": "建邺区茶亭东街",
+    "longitude": null,
+    "latitude": null,
+    "updatedAt": "2026-05-07T05:23:28.749Z"
+  },
+  {
+    "id": "map-010",
+    "siteName": "金陵造船厂",
+    "siteId": "site-011",
+    "xPercent": 45.53,
+    "yPercent": 54.33,
+    "description": "鼓楼区下关江边路",
+    "address": "鼓楼区下关江边路",
+    "longitude": null,
+    "latitude": null,
+    "updatedAt": "2026-05-07T05:24:22.002Z"
+  },
+  {
+    "id": "map-011",
+    "siteName": "小铁路遗址",
+    "siteId": "site-012",
+    "xPercent": 46,
+    "yPercent": 52,
+    "description": "鼓楼区三牌楼-下关",
+    "address": "鼓楼区三牌楼-下关",
+    "isDeleted": true,
+    "updatedAt": "2026-05-07T05:24:32.318Z"
+  }
+]

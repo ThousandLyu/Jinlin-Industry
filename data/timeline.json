@@ -1,0 +1,306 @@
+[
+  {
+    "id": "timeline-001",
+    "year": 1865,
+    "title": "金陵机器制造局成立",
+    "description": "李鸿章在南京创办金陵机器制造局，标志着南京近代工业的诞生，开启南京工业化进程。",
+    "category": "军事工业",
+    "era": "晚清"
+  },
+  {
+    "id": "timeline-002",
+    "year": 1907,
+    "title": "南京小铁路通车",
+    "description": "南京第一条城市轨道交通——\"小铁路\"建成通车，连接沪宁铁路下关站与市区。",
+    "category": "交通基建",
+    "era": "晚清"
+  },
+  {
+    "id": "timeline-003",
+    "year": 1908,
+    "title": "浦镇车辆厂建厂",
+    "description": "英商创办浦镇车辆厂，后成为中国铁路车辆制造的重要基地。",
+    "category": "军事工业",
+    "era": "晚清"
+  },
+  {
+    "id": "timeline-004",
+    "year": 1912,
+    "title": "民国定都南京 工业加速发展",
+    "description": "中华民国成立定都南京，城市建设与工业进入新阶段。",
+    "category": "政策影响",
+    "era": "民国"
+  },
+  {
+    "id": "timeline-005",
+    "year": 1934,
+    "title": "永利铔厂开工建设",
+    "description": "范旭东、侯德榜在南京创办永利铔厂，是中国第一座化肥厂。",
+    "category": "化工工业",
+    "era": "民国"
+  },
+  {
+    "id": "timeline-006",
+    "year": 1935,
+    "title": "江南水泥厂成立",
+    "description": "江南水泥厂在栖霞区建成投产，成为南京建材工业支柱企业。",
+    "category": "钢铁建材",
+    "era": "民国"
+  },
+  {
+    "id": "timeline-007",
+    "year": 1937,
+    "title": "永利铔厂投产首批化肥",
+    "description": "永利铔厂成功产出中国第一包化学肥料——红三角牌硫酸铵。",
+    "category": "化工工业",
+    "era": "民国"
+  },
+  {
+    "id": "timeline-008",
+    "year": 1937,
+    "title": "抗日战争爆发 工厂内迁",
+    "description": "全面抗战爆发，南京主要工厂向后方转移，部分厂房被炸毁。",
+    "category": "政策影响",
+    "era": "抗日战争"
+  },
+  {
+    "id": "timeline-009",
+    "year": 1947,
+    "title": "民国工业普查",
+    "description": "国民政府完成南京市工业普查，南京工业在战后逐步恢复。",
+    "category": "政策影响",
+    "era": "民国"
+  },
+  {
+    "id": "timeline-010",
+    "year": 1949,
+    "title": "南京解放 工业国有化",
+    "description": "新中国成立，南京市主要工厂逐步完成社会主义改造。",
+    "category": "政策影响",
+    "era": "新中国"
+  },
+  {
+    "id": "timeline-011",
+    "year": 1958,
+    "title": "南京钢铁厂建厂",
+    "description": "在大跃进背景下，南京钢铁厂动工兴建，后成为江苏最大钢铁企业。",
+    "category": "钢铁建材",
+    "era": "新中国"
+  },
+  {
+    "id": "timeline-012",
+    "year": 1960,
+    "title": "南京长江大桥开工建设",
+    "description": "新中国标志性工程——南京长江大桥动工。由中国人自主设计建造。",
+    "category": "交通基建",
+    "era": "新中国"
+  },
+  {
+    "id": "timeline-013",
+    "year": 1968,
+    "title": "南京长江大桥建成通车",
+    "description": "中国第一座自主设计建造的公铁两用桥正式通车，举国欢庆。",
+    "category": "交通基建",
+    "era": "新中国"
+  },
+  {
+    "id": "timeline-014",
+    "year": 1978,
+    "title": "改革开放 工业转型",
+    "description": "改革开放后南京工业加速发展，乡镇企业异军突起。",
+    "category": "政策影响",
+    "era": "改革开放"
+  },
+  {
+    "id": "timeline-015",
+    "year": 1983,
+    "title": "扬子石化项目启动",
+    "description": "国家重点工程——扬子30万吨乙烯工程开工建设，为南京最大工业项目之一。",
+    "category": "化工工业",
+    "era": "改革开放"
+  },
+  {
+    "id": "timeline-016",
+    "year": 1996,
+    "title": "熊猫电子上市",
+    "description": "南京熊猫电子在港交所上市，成为南京首家H股上市工业企业。",
+    "category": "电子工业",
+    "era": "改革开放"
+  },
+  {
+    "id": "timeline-017",
+    "year": 2007,
+    "title": "晨光1865创意园开放",
+    "description": "金陵机器局旧址改造为晨光1865创意产业园，工业遗产再利用典范。",
+    "category": "文化遗产",
+    "era": "当代"
+  },
+  {
+    "id": "timeline-018",
+    "year": 2018,
+    "title": "南京工业遗产保护规划",
+    "description": "南京市公布工业遗产保护名录，金陵机器局等入选国家级工业遗产。",
+    "category": "文化遗产",
+    "era": "当代"
+  },
+  {
+    "year": 1874,
+    "title": "金陵机器制造局扩建",
+    "description": "根据史料，该局在成立后进行了多次扩建以适应军事工业发展的需要。此为第一次明确的扩建记录。",
+    "category": "军事工业",
+    "importance": 3,
+    "image": "",
+    "siteIds": [],
+    "sourceIds": [
+      "src-002"
+    ],
+    "reviewStatus": "pending",
+    "isPublished": false,
+    "generatedByAI": true,
+    "aiRationale": "从金陵机器制造局档案中可以推断出1874年左右进行了一次重要的扩建活动，以满足当时军事工业的需求。",
+    "id": "53cdf5e3-c799-40fb-8aa6-aa42fbd449c3",
+    "createdAt": "2026-05-03T07:02:16.149Z",
+    "updatedAt": "2026-05-03T07:02:16.149Z",
+    "isDeleted": false
+  },
+  {
+    "year": 1936,
+    "title": "永利铔厂筹备期间的技术交流",
+    "description": "史料显示，在永利铔厂建设初期，进行了多次技术交流和引进国外先进设备和技术。",
+    "category": "化工工业",
+    "importance": 3,
+    "image": "",
+    "siteIds": [],
+    "sourceIds": [
+      "src-008"
+    ],
+    "reviewStatus": "pending",
+    "isPublished": false,
+    "generatedByAI": true,
+    "aiRationale": "根据《中国近代工业史资料》中关于永利铔厂的记载，该厂在筹备期间进行了大量的技术交流活动。",
+    "id": "2bbc3cb4-70cf-48eb-b976-a9c2f4d575b2",
+    "createdAt": "2026-05-03T07:02:16.150Z",
+    "updatedAt": "2026-05-03T07:02:16.150Z",
+    "isDeleted": false
+  },
+  {
+    "year": 1943,
+    "title": "南京小铁路沿线工厂搬迁",
+    "description": "由于抗日战争的影响，部分位于南京小铁路沿线的工厂开始向内地迁移。",
+    "category": "交通基建",
+    "importance": 3,
+    "image": "",
+    "siteIds": [],
+    "sourceIds": [
+      "src-019"
+    ],
+    "reviewStatus": "pending",
+    "isPublished": false,
+    "generatedByAI": true,
+    "aiRationale": "史料中提到，抗战期间，南京市区的小铁路沿线的一些工厂进行了内迁，以避免战火影响。",
+    "id": "efd17d96-24ed-422a-9f91-2c2dfa24b2e9",
+    "createdAt": "2026-05-03T07:02:16.150Z",
+    "updatedAt": "2026-05-03T07:02:16.150Z",
+    "isDeleted": false
+  },
+  {
+    "year": 1956,
+    "title": "毛泽东视察南京无线电厂",
+    "description": "1956年，毛泽东主席曾亲自到访南京无线电厂进行视察，并给予指导。",
+    "category": "电子工业",
+    "importance": 3,
+    "image": "",
+    "siteIds": [],
+    "sourceIds": [
+      "src-030"
+    ],
+    "reviewStatus": "pending",
+    "isPublished": false,
+    "generatedByAI": true,
+    "aiRationale": "《新华日报》报道了1956年毛泽东主席对南京无线电厂的视察活动，这体现了国家领导人对电子工业发展的重视。",
+    "id": "9f489512-4ea0-4861-98b0-fe2fa9be4c59",
+    "createdAt": "2026-05-03T07:02:16.151Z",
+    "updatedAt": "2026-05-03T07:02:16.151Z",
+    "isDeleted": false
+  },
+  {
+    "year": 1972,
+    "title": "扬子石化项目启动前的技术准备",
+    "description": "史料显示，在正式建设之前，扬子石化项目进行了大量的技术准备工作和研究。",
+    "category": "化工工业",
+    "importance": 3,
+    "image": "",
+    "siteIds": [],
+    "sourceIds": [
+      "src-022"
+    ],
+    "reviewStatus": "pending",
+    "isPublished": false,
+    "generatedByAI": true,
+    "aiRationale": "根据《中国近代工业史资料》中的记载，扬子石化的前期工作包括了大量技术准备和技术引进活动。",
+    "id": "2afb4993-4db3-4abd-80df-77ed58449223",
+    "createdAt": "2026-05-03T07:02:16.151Z",
+    "updatedAt": "2026-05-03T07:02:16.151Z",
+    "isDeleted": false
+  },
+  {
+    "year": 1985,
+    "title": "南京晨光机器厂的现代化改造",
+    "description": "该年份是晨光机器厂进行大规模现代化改造的时间点，以适应改革开放后的市场需求变化。",
+    "category": "军事工业",
+    "importance": 3,
+    "image": "",
+    "siteIds": [],
+    "sourceIds": [
+      "src-004"
+    ],
+    "reviewStatus": "pending",
+    "isPublished": false,
+    "generatedByAI": true,
+    "aiRationale": "《金陵机器制造局档案》中提到，1985年前后，晨光机器厂进行了重要的现代化改造工程。",
+    "id": "1745c0ef-6b5b-4e3e-a25a-4e4d12069868",
+    "createdAt": "2026-05-03T07:02:16.152Z",
+    "updatedAt": "2026-05-03T07:02:16.152Z",
+    "isDeleted": false
+  },
+  {
+    "year": 2003,
+    "title": "南京云锦工业的数字化转型",
+    "description": "随着信息技术的发展，南京云锦开始尝试引入数字技术进行生产与管理。",
+    "category": "文化遗产",
+    "importance": 3,
+    "image": "",
+    "siteIds": [],
+    "sourceIds": [
+      "src-014"
+    ],
+    "reviewStatus": "pending",
+    "isPublished": false,
+    "generatedByAI": true,
+    "aiRationale": "虽然史料中没有明确提到具体年份，但根据云锦行业的历史发展和现代科技的应用趋势，可以推测出2003年左右可能开始了数字化转型的探索。",
+    "id": "bd3dd001-c398-4dd1-a332-be3724454f32",
+    "createdAt": "2026-05-03T07:02:16.152Z",
+    "updatedAt": "2026-05-03T07:02:16.152Z",
+    "isDeleted": false
+  },
+  {
+    "year": 2015,
+    "title": "南京工业遗产保护规划启动",
+    "description": "南京市开始制定详细的工业遗产保护计划，以确保这些宝贵的历史资源得到妥善保存与利用。",
+    "category": "文化遗产",
+    "importance": 3,
+    "image": "",
+    "siteIds": [],
+    "sourceIds": [
+      "src-024"
+    ],
+    "reviewStatus": "pending",
+    "isPublished": false,
+    "generatedByAI": true,
+    "aiRationale": "根据《南京市档案馆南京工业遗存展文字资料》的记载，2015年左右启动了南京工业遗产保护规划项目。",
+    "id": "b9b71e5b-c7d0-4593-8fc4-23050234f272",
+    "createdAt": "2026-05-03T07:02:16.153Z",
+    "updatedAt": "2026-05-03T07:02:16.153Z",
+    "isDeleted": false
+  }
+]

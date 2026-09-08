@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>金陵工脉 · 配图集</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap');
+:root{--bg:#F5F0E8;--deep:#4A3728;--cream:#E8D5B7;--bronze:#8B7355;--gold:#C49A3C;--red:#8B3A3A;--serif:'Noto Serif SC',serif;--sans:'Noto Sans SC',sans-serif}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);font-family:var(--sans);color:var(--deep)}
+#bar{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(74,55,40,.93);backdrop-filter:blur(8px);padding:8px 24px;display:flex;align-items:center;justify-content:space-between}
+#bar span{color:var(--cream);font-size:14px}
+#bar button{background:var(--gold);color:#fff;border:none;padding:7px 16px;border-radius:6px;font-family:var(--sans);font-size:13px;cursor:pointer;margin-left:8px}
+#bar button:hover{background:#b8892e}
+.page{width:1100px;margin:52px auto 0;padding:36px;background:var(--bg);page-break-after:always}
+.page:last-child{margin-bottom:30px}
+.ptitle{font-family:var(--serif);font-size:22px;font-weight:700;text-align:center;margin-bottom:6px;letter-spacing:3px}
+.psub{font-size:12px;color:var(--bronze);text-align:center;margin-bottom:22px}
+
+/* === Chart 1: Product framework — 4 rows × 2 columns === */
+.fw-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-bottom:16px}
+.fw-card{border-radius:8px;padding:16px 20px;border:1px solid rgba(0,0,0,.08);text-align:center}
+.fw-card .fw-tag{font-size:10px;font-weight:600;letter-spacing:1px;margin-bottom:5px;opacity:.7}
+.fw-card .fw-name{font-family:var(--serif);font-size:17px;font-weight:600;margin-bottom:6px}
+.fw-card .fw-desc{font-size:12px;opacity:.65;line-height:1.5}
+.fw-card .fw-out{font-size:10px;margin-top:8px;padding-top:8px;border-top:1px dashed rgba(0,0,0,.1);opacity:.55}
+
+.fw1{background:#F9E8DE}.fw1 .fw-name{color:#8C3E1A}
+.fw2{background:#EDE7F9}.fw2 .fw-name{color:#3E2875}
+.fw3{background:#DFF3EC}.fw3 .fw-name{color:#1A5C3F}
+.fw4{background:#E0ECF8}.fw4 .fw-name{color:#1A3D60}
+.fw5{background:#F5E3EE}.fw5 .fw-name{color:#6B1E48}
+.fw6{background:#FDF3DC}.fw6 .fw-name{color:#6B4E0A}
+.fw7{background:#E8F0E8}.fw7 .fw-name{color:#2E4A2E}
+.fw8{background:#FAF0F0}.fw8 .fw-name{color:#8B3A3A}
+
+.fw-note{font-size:11px;color:var(--bronze);text-align:center;margin-top:14px;opacity:.7}
+
+/* === Chart 2: Verification === */
+.vf-row{display:flex;gap:14px;margin-bottom:16px}
+.vf-box{flex:1;border-radius:8px;padding:18px 20px;border:1px solid rgba(0,0,0,.08)}
+.vf-box .vf-lv{font-family:var(--serif);font-size:16px;font-weight:700;margin-bottom:4px}
+.vf-box .vf-nm{font-size:14px;font-weight:600;margin-bottom:6px}
+.vf-box .vf-desc{font-size:12px;opacity:.65;line-height:1.5}
+.vf-a{background:#DFF3EC}.vf-a .vf-lv,.vf-a .vf-nm{color:#1A5C3F}
+.vf-b{background:#FDF3DC}.vf-b .vf-lv,.vf-b .vf-nm{color:#6B4E0A}
+.vf-c{background:#FAF0F0}.vf-c .vf-lv,.vf-c .vf-nm{color:#8B3A3A}
+
+.vf-grades{display:flex;gap:12px;margin-top:16px}
+.vf-grade{flex:1;border-radius:8px;padding:14px 16px;text-align:center;border:1px solid rgba(0,0,0,.06)}
+.vf-grade .vg-id{font-family:var(--serif);font-size:22px;font-weight:700}
+.vf-grade .vg-nm{font-size:13px;font-weight:500;margin:3px 0}
+.vf-grade .vg-desc{font-size:11px;opacity:.6;line-height:1.4}
+.vg-a{background:#DFF3EC}.vg-a .vg-id,.vg-a .vg-nm{color:#1A5C3F}
+.vg-b{background:#FDF3DC}.vg-b .vg-id,.vg-b .vg-nm{color:#6B4E0A}
+.vg-c{background:#FAF0F0}.vg-c .vg-id,.vg-c .vg-nm{color:#8B3A3A}
+
+/* === Chart 3: Closed loop — 3 rows × 2 columns === */
+.loop-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+.loop-node{border-radius:8px;padding:16px 18px;border:1px solid rgba(0,0,0,.08);text-align:center}
+.loop-node .ln-num{font-size:10px;font-weight:600;opacity:.5;margin-bottom:3px}
+.loop-node .ln-name{font-family:var(--serif);font-size:16px;font-weight:600;margin-bottom:4px}
+.loop-node .ln-desc{font-size:11px;opacity:.6;line-height:1.4}
+.ln1{background:#F9E8DE}.ln1 .ln-name{color:#8C3E1A}
+.ln2{background:#EDE7F9}.ln2 .ln-name{color:#3E2875}
+.ln3{background:#DFF3EC}.ln3 .ln-name{color:#1A5C3F}
+.ln4{background:#E0ECF8}.ln4 .ln-name{color:#1A3D60}
+.ln5{background:#FDF3DC}.ln5 .ln-name{color:#6B4E0A}
+.ln6{background:#F5E3EE}.ln6 .ln-name{color:#6B1E48}
+
+.loop-center{width:100%;text-align:center;margin:12px 0 0;font-size:11px;color:var(--bronze);opacity:.6}
+
+/* === Chart 4: Timeline === */
+.tl-row{display:flex;gap:10px;margin-bottom:10px}
+.tl-era{flex:1;border-radius:8px;padding:14px 16px;border:1px solid rgba(0,0,0,.06)}
+.tl-era .te-yr{font-size:10px;font-weight:600;opacity:.5}
+.tl-era .te-nm{font-family:var(--serif);font-size:14px;font-weight:600;margin:3px 0}
+.tl-era .te-desc{font-size:11px;opacity:.6;line-height:1.4}
+.te1{background:#F9E8DE}.te1 .te-nm{color:#8C3E1A}
+.te2{background:#EDE7F9}.te2 .te-nm{color:#3E2875}
+.te3{background:#FAF0F0}.te3 .te-nm{color:#8B3A3A}
+.te4{background:#E0ECF8}.te4 .te-nm{color:#1A3D60}
+.te5{background:#DFF3EC}.te5 .te-nm{color:#1A5C3F}
+</style>
+</head>
+<body>
+<div id="bar">
+  <span>金陵工脉 · 配图集（共4张）</span>
+  <button onclick="expPage(0)">图1 产品框架</button>
+  <button onclick="expPage(1)">图2 核验机制</button>
+  <button onclick="expPage(2)">图3 服务闭环</button>
+  <button onclick="expPage(3)">图4 工业时间线</button>
+</div>
+
+<!-- ========== 图1: 产品服务体系框架 (4行2列) ========== -->
+<div class="page" id="p0">
+  <div class="ptitle">服务内容与产品体系框架</div>
+  <div class="psub">「一库一谱两线三课四景一展一传播」公益资源体系</div>
+
+  <div class="fw-grid">
+    <div class="fw-card fw1"><div class="fw-tag">一 库</div><div class="fw-name">南京民族工业史料库</div><div class="fw-desc">文献 · 史志 · 企业史 · 政策 · 图像 · 口述线索</div><div class="fw-out">100+史实节点 · 来源可查 · 等级可辨</div></div>
+    <div class="fw-card fw2"><div class="fw-tag">一 谱</div><div class="fw-name">工业精神谱系</div><div class="fw-desc">实业救国 · 科技报国 · 产业报国 · 城市共生</div><div class="fw-out">精神谱系图 · 人物故事卡</div></div>
+    <div class="fw-card fw3"><div class="fw-tag">两 线</div><div class="fw-name">研学线与云游线</div><div class="fw-desc">线下工业遗产研学地图 + 线上数字游览H5专题</div><div class="fw-out">研学地图 · H5专题页</div></div>
+    <div class="fw-card fw4"><div class="fw-tag">三 课</div><div class="fw-name">公益课程体系</div><div class="fw-desc">历史课 · 人物课 · 科技课，面向初中→高校</div><div class="fw-out">课件 · 讲稿 · 微课视频 · 教师指南</div></div>
+    <div class="fw-card fw5"><div class="fw-tag">四 景</div><div class="fw-name">数字复原场景</div><div class="fw-desc">军工 · 化工 · 交通 · 工业社区 四类场景</div><div class="fw-out">渲染图 · 互动长图 · 说明文档</div></div>
+    <div class="fw-card fw6"><div class="fw-tag">一 展</div><div class="fw-name">云展与流动微展</div><div class="fw-desc">线上五板块专题页 + 8-12块可移动展板</div><div class="fw-out">1个云展 · 4-8块展板</div></div>
+    <div class="fw-card fw7"><div class="fw-tag">一传播</div><div class="fw-name">公益传播矩阵</div><div class="fw-desc">公众号 · 短视频 · 校园媒体 · 社区活动</div><div class="fw-out">8-12篇推文 · 3-8条短视频</div></div>
+    <div class="fw-card fw8"><div class="fw-tag">支 撑</div><div class="fw-name">线上平台中枢</div><div class="fw-desc">史料治理 · AI辅助 · 公众投稿 · 活动反馈</div><div class="fw-out">全栈Web架构 · RESTful API · JSON数据</div></div>
+  </div>
+  <div class="fw-note">所有模块通过统一平台聚合，形成从史料采集到教育服务的连续链条</div>
+</div>
+
+<!-- ========== 图2: 三级核验与史料分级 ========== -->
+<div class="page" id="p1">
+  <div class="ptitle">史料三级核验机制与证据分级</div>
+  <div class="psub">「来源可查 · 等级可辨 · 用途明确」的史料证据链</div>
+
+  <div class="vf-row">
+    <div class="vf-box vf-a">
+      <div class="vf-lv">一级核验</div>
+      <div class="vf-nm">核验来源</div>
+      <div class="vf-desc">所有史实记录来源名称、作者或发布单位、发布时间、获取路径和截图/页码。确保每条史实"来源可查"。</div>
+    </div>
+    <div class="vf-box vf-b">
+      <div class="vf-lv">二级核验</div>
+      <div class="vf-nm">交叉互证</div>
+      <div class="vf-desc">将官方资料、学术论文、地方志、企业史和场馆展陈互证。多源交叉验证，减少单一来源偏差。</div>
+    </div>
+    <div class="vf-box vf-c">
+      <div class="vf-lv">三级核验</div>
+      <div class="vf-nm">高风险表述审查</div>
+      <div class="vf-desc">对"全国第一""中国第一""首创""最大""唯一"等高风险表述标注原始出处和使用边界，避免过度宣传。</div>
+    </div>
+  </div>
+
+  <div style="text-align:center;font-family:var(--serif);font-size:15px;font-weight:600;margin:20px 0 14px;color:var(--bronze)">史料证据等级（A / B / C 三级分类）</div>
+
+  <div class="vf-grades">
+    <div class="vf-grade vg-a">
+      <div class="vg-id">A</div>
+      <div class="vg-nm">权威资料支撑</div>
+      <div class="vg-desc">已有官方资料、地方志、企业史或较权威研究支撑。可直接用于课程、展板和对外发布。</div>
+    </div>
+    <div class="vf-grade vg-b">
+      <div class="vg-id">B</div>
+      <div class="vg-nm">公开资料待核</div>
+      <div class="vg-desc">已有公开资料支撑，但后续需继续核对具体时间、原始出处或表述边界。可谨慎使用并注明来源。</div>
+    </div>
+    <div class="vf-grade vg-c">
+      <div class="vg-id">C</div>
+      <div class="vg-nm">线索待验</div>
+      <div class="vg-desc">暂列线索，纳入正式展示前需完成二次核验。不直接用于对外发布，仅作为项目内部参考。</div>
+    </div>
+  </div>
+</div>
+
+<!-- ========== 图3: 公益服务闭环 (3行2列) ========== -->
+<div class="page" id="p2">
+  <div class="ptitle">公益服务闭环机制</div>
+  <div class="psub">线下采集 → 平台沉淀 → AI辅助 → 人工核查 → 公益发布 → 反馈迭代</div>
+
+  <div class="loop-grid">
+    <div class="loop-node ln1"><div class="ln-num">①</div><div class="ln-name">线下采集</div><div class="ln-desc">实地调研 · 口述访谈 · 现场拍摄 · 问卷反馈 · 公众投稿</div></div>
+    <div class="loop-node ln2"><div class="ln-num">②</div><div class="ln-name">平台沉淀</div><div class="ln-desc">资料导入 · 结构化编目 · 元数据标注 · 来源记录</div></div>
+    <div class="loop-node ln3"><div class="ln-num">③</div><div class="ln-name">AI辅助整理</div><div class="ln-desc">摘要生成 · 实体识别 · 关键词提取 · 关联推荐 · 风险提示</div></div>
+    <div class="loop-node ln4"><div class="ln-num">④</div><div class="ln-name">人工核查</div><div class="ln-desc">史实判断 · 政治表述审核 · 证据来源确认 · 适龄化改写</div></div>
+    <div class="loop-node ln5"><div class="ln-num">⑤</div><div class="ln-name">公益发布</div><div class="ln-desc">云展 · 课程 · 微展 · 短视频 · 工脉文笺 · 活动资源</div></div>
+    <div class="loop-node ln6"><div class="ln-num">⑥</div><div class="ln-name">反馈迭代</div><div class="ln-desc">问卷 · 教师评价 · 传播数据 · 新增线索 → 回流①②③</div></div>
+  </div>
+  <div class="loop-center">↻ 持续循环：每次活动结束后一周内完成复盘，反馈和新增线索重新进入平台</div>
+</div>
+
+<!-- ========== 图4: 工业发展时间线 ========== -->
+<div class="page" id="p3">
+  <div class="ptitle">南京民族工业发展脉络</div>
+  <div class="psub">从1865年近代工业萌芽到当代工业遗产再生的五大阶段</div>
+
+  <div class="tl-row">
+    <div class="tl-era te1">
+      <div class="te-yr">1865—1911</div>
+      <div class="te-nm">近代萌芽</div>
+      <div class="te-desc">洋务运动与晚清自强运动。近代机械化军工起步，中西技术交汇。代表：金陵机器制造局。</div>
+    </div>
+    <div class="tl-era te2">
+      <div class="te-yr">1912—1937</div>
+      <div class="te-nm">民族工业成长</div>
+      <div class="te-desc">民国工业发展，化工、建材、交通、机械等行业兴起。代表：永利铔厂、江南水泥厂、浦口火车站。</div>
+    </div>
+    <div class="tl-era te3">
+      <div class="te-yr">1937—1945</div>
+      <div class="te-nm">战时迁移与坚守</div>
+      <div class="te-desc">抗战全面爆发。工业设施遭破坏，部分企业西迁或坚持护厂。代表：永利铔厂西迁、江南水泥厂护厂。</div>
+    </div>
+  </div>
+  <div class="tl-row">
+    <div class="tl-era te4" style="flex:1.2">
+      <div class="te-yr">1949—1978</div>
+      <div class="te-nm">社会主义工业建设</div>
+      <div class="te-desc">企业公私合营、改组扩建，南京形成较完整工业门类。代表：南化公司、金陵船厂、浦镇机厂、南京汽车制造厂。</div>
+    </div>
+    <div class="tl-era te5" style="flex:1.2">
+      <div class="te-yr">1978—至今</div>
+      <div class="te-nm">转型保护与再生</div>
+      <div class="te-desc">老工业区搬迁改造，工业遗产进入保护、活化、文旅与公益传播阶段。代表：晨光1865、国创园、1934文化产业园。</div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+<script>
+async function expPage(i){
+  const el=document.getElementById('p'+i);
+  const names=['产品框架','核验机制','服务闭环','工业时间线'];
+  try{const cv=await html2canvas(el,{scale:2,backgroundColor:'#F5F0E8',useCORS:true,logging:false});const a=document.createElement('a');a.download='金陵工脉_'+names[i]+'.png';a.href=cv.toDataURL('image/png');a.click();}catch(e){alert('导出失败');}
+}
+</script>
+</body>
+</html>

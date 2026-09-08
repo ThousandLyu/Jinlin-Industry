@@ -1,0 +1,33 @@
+[
+  {
+    "name": "lzc",
+    "contact": "111",
+    "title": "范旭东",
+    "content": "永利 企业家",
+    "source": "实地调查",
+    "fileUrl": "",
+    "status": "pending",
+    "adminNote": "",
+    "convertedSourceId": "",
+    "aiReviewStatus": "success",
+    "id": "4b265aba-d946-4193-b78c-f00d6bfef0c9",
+    "createdAt": "2026-05-02T12:45:18.147Z",
+    "updatedAt": "2026-05-02T12:46:08.204Z",
+    "isDeleted": false,
+    "aiReviewSummary": "该史料提及了范旭东与永利化学工业公司的关系，强调其为企业家身份。",
+    "aiKeywords": [
+      "范旭东",
+      "永利",
+      "企业家"
+    ],
+    "aiEntities": [
+      "[object Object]",
+      "[object Object]"
+    ],
+    "confidenceScore": 85,
+    "isCredible": true,
+    "doubts": [],
+    "errorPositions": [],
+    "aiReviewUpdatedAt": "2026-05-02T12:46:08.204Z"
+  }
+]

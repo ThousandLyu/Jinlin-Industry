@@ -1,0 +1,128 @@
+[
+  {
+    "id": "scene-001",
+    "title": "金陵机器制造局复原场景",
+    "description": "通过数字技术还原1890年代金陵机器局全貌，展示弹药生产线、枪炮车间和厂区布局。",
+    "period": "晚清",
+    "imageUrl": "/uploads/images/1778130386132-y8u7rx.jpg",
+    "hotspots": [
+      {
+        "x": 30,
+        "y": 50,
+        "label": "枪炮车间"
+      },
+      {
+        "x": 60,
+        "y": 35,
+        "label": "弹药库"
+      },
+      {
+        "x": 50,
+        "y": 75,
+        "label": "厂部办公楼"
+      }
+    ],
+    "isPublished": true,
+    "image": "/uploads/scenes/jinling-arsenal-3d.jpg",
+    "updatedAt": "2026-05-12T05:10:42.131Z",
+    "modelUrl": "/uploads/images/1778562612569-d3dfua.obj",
+    "modelType": "obj"
+  },
+  {
+    "id": "scene-002",
+    "title": "永利铔厂硝酸塔",
+    "description": "复原永利铔厂1937年投产时的厂区面貌，展示合成氨车间和红三角牌化肥生产线。",
+    "period": "民国",
+    "imageUrl": "/uploads/images/1778130285534-spo17p.jpg",
+    "hotspots": [
+      {
+        "x": 45,
+        "y": 40,
+        "label": "合成氨车间"
+      },
+      {
+        "x": 75,
+        "y": 65,
+        "label": "化肥包装车间"
+      }
+    ],
+    "isPublished": true,
+    "image": "/uploads/images/1778130285534-spo17p.jpg",
+    "updatedAt": "2026-05-12T07:18:06.467Z",
+    "modelUrl": "/uploads/images/1778568384985-ee88xy.glb",
+    "modelType": "glb"
+  },
+  {
+    "id": "scene-003",
+    "title": "江南水泥厂场景",
+    "description": "江南水泥厂位于南京栖霞山东麓，1935年由唐山启新洋灰公司筹建，是当时国内规模最大、设备最先进的水泥厂，被誉为“东方水泥之冠”。1937年日军侵华、南京沦陷之际，这座尚未投产的工厂在德国友人卡尔·京特与丹麦友人辛德贝格的守护下成为庇护数万难民的“生命方舟”；抗战期间，民族实业家更以“宁碎设备、不资敌寇”的气节拒绝为日军生产。新中国成立后，该厂于1950年正式投产，研制出国产首批油井水泥，为工业化建设立下汗马功劳，2012年停产后转型为工业遗产保护与红色文创园区，其民国建筑群与难民营历史至今承载着民族工业的记忆与人道主义的光辉。",
+    "period": "抗日战争",
+    "imageUrl": "/uploads/images/1778570815731-nlg1iz.png",
+    "hotspots": [
+      {
+        "x": 25,
+        "y": 55,
+        "label": "难民营区"
+      },
+      {
+        "x": 60,
+        "y": 40,
+        "label": "丹麦国旗区"
+      }
+    ],
+    "isPublished": true,
+    "image": "/uploads/scenes/jiangnan-refugee.jpg",
+    "updatedAt": "2026-05-12T08:11:27.920Z",
+    "modelUrl": "/uploads/images/1778568370704-wr8hpo.glb",
+    "modelType": "glb"
+  },
+  {
+    "id": "scene-004",
+    "title": "南京长江大桥1968年场景",
+    "description": "复原1960年代长江大桥建设场景，展示桥墩施工和引桥架设的场景。",
+    "period": "新中国",
+    "imageUrl": "/uploads/images/1778130634151-ja3a87.jpg",
+    "hotspots": [
+      {
+        "x": 50,
+        "y": 45,
+        "label": "桥墩施工"
+      },
+      {
+        "x": 30,
+        "y": 70,
+        "label": "引桥工程"
+      },
+      {
+        "x": 80,
+        "y": 35,
+        "label": "施工指挥部"
+      }
+    ],
+    "isPublished": true,
+    "image": "/uploads/scenes/bridge-build.jpg",
+    "updatedAt": "2026-05-07T06:11:55.301Z"
+  },
+  {
+    "id": "scene-005",
+    "title": "浦镇车辆厂车间",
+    "description": "数字化展示浦镇车辆厂保留的1908年原厂房和早期火车制造设备。",
+    "period": "民国",
+    "imageUrl": "/uploads/images/1778130677419-8kwr12.jpg",
+    "hotspots": [
+      {
+        "x": 40,
+        "y": 60,
+        "label": "机加工车间"
+      },
+      {
+        "x": 65,
+        "y": 30,
+        "label": "装配线"
+      }
+    ],
+    "isPublished": true,
+    "image": "/uploads/scenes/puzhen-workshop.jpg",
+    "updatedAt": "2026-05-07T06:11:57.555Z"
+  }
+]

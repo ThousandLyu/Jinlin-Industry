@@ -210,11 +210,11 @@
   - 从 `data/media.json` 中物理抹除 84 条软删除记录，现存条目由 189 条降至 105 条。
 - 运行完整校验，确认 84 份史料物理文件全部存在，业务关联 0 断链，Web 平台正常服务。
 
-### In Progress
-- 协助用户完成公网部署/线上发布。
+### Completed (续)
+- 修复 Vercel 云端部署依赖冲突：
+  - 根因：`package.json` 中遗留了此前已重构未使用的 `@react-three/drei` 和 `@react-three/fiber`，导致云端 `npm install` 触发严格 peerDependencies 依赖解析错误 (`ERESOLVE`)。
+  - 处理：清理移除上述未引用的冗余依赖包，并配置 `.npmrc` (`legacy-peer-deps=true`)。
+  - 推送最新提交至 GitHub `main` 分支，触发 Vercel 自动重构。
 
-### Notes
-- 复查结果：`verify_platform_data.js` 全部通过，Web 访问正常（HTTP 200）。
-- 被删除的 84 个物理文件与 43 个孤立缓存均已有安全备份归档。
 
 
